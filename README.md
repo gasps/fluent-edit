@@ -23,9 +23,9 @@ local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOog
 
 ## 📜 Usage
 
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
+[Example Script the studio environment](https://github.com/gasps/fluent-edit/blob/master/Example.client.luau)
 
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
+[Example Script for an exploit environment](https://github.com/gasps/fluent-edit/blob/master/Example.luau)
 
 ## Credits
 
